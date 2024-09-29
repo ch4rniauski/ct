@@ -1,0 +1,8 @@
+identifier1
+apple
+stone
+beautiful
+watermelon
+identificator
+programming
+laboratoryWork
