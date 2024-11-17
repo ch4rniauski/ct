@@ -1,0 +1,28 @@
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.exe
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.deps.json
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.runtimeconfig.json
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.dll
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.pdb
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.AssemblyInfoInputs.cache
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.AssemblyInfo.vb
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.vbproj.CoreCompileInputs.cache
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.dll
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\refint\kt lab 7.dll
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.pdb
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.genruntimeconfig.cache
+C:\Users\makst\OneDrive\Рабочий стол\kt lab 7\kt lab 7\obj\Debug\net6.0\ref\kt lab 7.dll
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.exe
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.deps.json
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.runtimeconfig.json
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.dll
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\bin\Debug\net6.0\kt lab 7.pdb
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.AssemblyInfo.vb
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.dll
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\refint\kt lab 7.dll
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.pdb
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\kt lab 7.genruntimeconfig.cache
+C:\Users\Admin\Desktop\kt lab 7\kt lab 7\obj\Debug\net6.0\ref\kt lab 7.dll

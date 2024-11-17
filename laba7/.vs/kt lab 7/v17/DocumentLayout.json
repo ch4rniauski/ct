@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\kt lab 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA380412-8644-46B0-AF0C-8CC361EE02FD}|kt lab 7\\kt lab 7.vbproj|c:\\users\\admin\\desktop\\kt lab 7\\kt lab 7\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA380412-8644-46B0-AF0C-8CC361EE02FD}|kt lab 7\\kt lab 7.vbproj|solutionrelative:kt lab 7\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kt lab 7\\kt lab 7\\Program.vb",
+              "RelativeDocumentMoniker": "kt lab 7\\Program.vb",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\kt lab 7\\kt lab 7\\Program.vb",
+              "RelativeToolTip": "kt lab 7\\Program.vb",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwE0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-17T15:05:00.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

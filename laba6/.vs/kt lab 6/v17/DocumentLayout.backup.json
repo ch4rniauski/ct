@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\kt lab 6\\",
+  "WorkspaceRootPath": "D:\\university\\ct\\laba6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DA9F6F0-727F-4D2A-8445-BE9C138BF452}|kt lab 6\\kt lab 6.vbproj|c:\\users\\admin\\desktop\\kt lab 6\\kt lab 6\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{4DA9F6F0-727F-4D2A-8445-BE9C138BF452}|kt lab 6\\kt lab 6.vbproj|d:\\university\\ct\\laba6\\kt lab 6\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{4DA9F6F0-727F-4D2A-8445-BE9C138BF452}|kt lab 6\\kt lab 6.vbproj|solutionrelative:kt lab 6\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\kt lab 6\\kt lab 6\\Program.vb",
+              "DocumentMoniker": "D:\\university\\ct\\laba6\\kt lab 6\\Program.vb",
               "RelativeDocumentMoniker": "kt lab 6\\Program.vb",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\kt lab 6\\kt lab 6\\Program.vb",
+              "ToolTip": "D:\\university\\ct\\laba6\\kt lab 6\\Program.vb",
               "RelativeToolTip": "kt lab 6\\Program.vb",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAkwLsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAYwKQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-17T15:00:12.796Z",
               "EditorCaption": ""

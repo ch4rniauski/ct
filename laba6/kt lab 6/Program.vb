@@ -162,7 +162,7 @@ End Class
 
 Module Module1
     Sub Main()
-        Console.WriteLine("Enter your BASIC program (type 'END' to finish):")
+        Console.WriteLine("Напишите базовую программу (введите 'END', чтобы завершить):")
         Dim input As New Text.StringBuilder()
         Dim line As String
 
@@ -179,7 +179,7 @@ Module Module1
         Try
             parser.Execute()
         Catch ex As Exception
-            Console.WriteLine($"Error: {ex.Message}")
+            Console.WriteLine($"Ошибка: {ex.Message}")
         End Try
 
         Console.WriteLine("Press any key to exit...")

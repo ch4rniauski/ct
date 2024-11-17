@@ -26,3 +26,18 @@ C:\Users\Admin\Desktop\kt lab 6\kt lab 6\obj\Debug\net6.0\refint\kt lab 6.dll
 C:\Users\Admin\Desktop\kt lab 6\kt lab 6\obj\Debug\net6.0\kt lab 6.pdb
 C:\Users\Admin\Desktop\kt lab 6\kt lab 6\obj\Debug\net6.0\kt lab 6.genruntimeconfig.cache
 C:\Users\Admin\Desktop\kt lab 6\kt lab 6\obj\Debug\net6.0\ref\kt lab 6.dll
+D:\university\ct\laba6\kt lab 6\bin\Debug\net6.0\kt lab 6.exe
+D:\university\ct\laba6\kt lab 6\bin\Debug\net6.0\kt lab 6.deps.json
+D:\university\ct\laba6\kt lab 6\bin\Debug\net6.0\kt lab 6.runtimeconfig.json
+D:\university\ct\laba6\kt lab 6\bin\Debug\net6.0\kt lab 6.dll
+D:\university\ct\laba6\kt lab 6\bin\Debug\net6.0\kt lab 6.pdb
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.AssemblyInfoInputs.cache
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.AssemblyInfo.vb
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.vbproj.CoreCompileInputs.cache
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.sourcelink.json
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.dll
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\refint\kt lab 6.dll
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.pdb
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\kt lab 6.genruntimeconfig.cache
+D:\university\ct\laba6\kt lab 6\obj\Debug\net6.0\ref\kt lab 6.dll

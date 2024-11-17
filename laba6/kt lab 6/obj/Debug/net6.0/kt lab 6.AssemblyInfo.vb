@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("kt lab 6"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb04bc37affc8f0d900662f805519530a747e76"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("kt lab 6"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("kt lab 6"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\kt lab 6\\kt lab 6\\kt lab 6.vbproj": {}
+    "D:\\university\\ct\\laba6\\kt lab 6\\kt lab 6.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\kt lab 6\\kt lab 6\\kt lab 6.vbproj": {
+    "D:\\university\\ct\\laba6\\kt lab 6\\kt lab 6.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\kt lab 6\\kt lab 6\\kt lab 6.vbproj",
+        "projectUniqueName": "D:\\university\\ct\\laba6\\kt lab 6\\kt lab 6.vbproj",
         "projectName": "kt lab 6",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\kt lab 6\\kt lab 6\\kt lab 6.vbproj",
+        "projectPath": "D:\\university\\ct\\laba6\\kt lab 6\\kt lab 6.vbproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\kt lab 6\\kt lab 6\\obj\\",
+        "outputPath": "D:\\university\\ct\\laba6\\kt lab 6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
